@@ -1,0 +1,38 @@
+a:any-link {
+    color: black;
+}
+
+.theme-head {
+    font-size: 20px;
+    font-weight: 700;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #1f2126;
+}
+
+.container  {
+    background-color: #d7efff;
+}
+
+.card-body {
+    background-color: #d7efff;
+}
+
+body {
+    background-color: #e7f0f0;
+}
+
+.menu-butonlari {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1{
+    color:black;
+    font-style: arial;
+    
+}
